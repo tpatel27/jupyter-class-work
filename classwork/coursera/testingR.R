@@ -1,0 +1,1 @@
+df = read.table(file.choose(), header=TRUE, sep=",")
